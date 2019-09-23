@@ -1,0 +1,35 @@
+import TwitterSearch
+from TwitterSearch import *
+
+try:
+    tso = TwitterSearchOrder()  # create a TwitterSearchOrder object
+    tso.set_keywords(['BBC News'])  # let's define all words we would like to have a look for
+    tso.set_include_entities(False)  # and don't give us all those entity information
+
+    # exclude the retweet!!!
+
+    # it's about time to create a TwitterSearch object with our secret tokens
+    ts = TwitterSearch(
+        # Twitter API credentials
+        # warning!!!!
+        # Before upload to GIthub, replace them!!!
+        consumer_key="",
+        consumer_secret="",
+        access_token="",
+        access_token_secret="")
+
+
+
+    number = 0;  # record for number of tweets we have
+    # this is where the fun actually starts :)
+    for tweet in ts.search_tweets_iterable(tso):
+        if number <= 100:
+            # file.write('@%s tweeted: %s' % ( tweet['user']['screen_name'], tweet['text'] ))
+            print('@%s tweeted: %s' % (tweet['user']['screen_name'],tweet['text']))
+            number += 1
+        else:
+            print("already 100 tweets now!")
+            break
+
+except TwitterSearchException as e:  # take care of all those ugly errors if there are some
+    print(e)
