@@ -10,4 +10,7 @@ Use google natural api to perform sentiment analysis on news obtained from Twitt
 - Classified according to the content of the news.
 - Analyze the entity sentiment of the news.   
 ## Testing 
-<img src="https://github.com/lqi25/mini-project1/blob/lqi/img/img1.jpg"/>
+Here is the result of performing sentiment analysis on the twitter news file located in google cloud.We can see the sentiment score of each news and people's attitude towards it is positive, negative or neutral.
+<img src="https://github.com/lqi25/mini-project1/blob/lqi/img/img1.jpg"/>   
+Here is the result of analyzing the input news using google natural language api.We can see the category of the news, its sentiment score,people's attitude towards it and entity sentiment analysis.   
+<img src="https://github.com/lqi25/mini-project1/blob/lqi/img/img2.jpg"/>   
