@@ -8,4 +8,6 @@ Use google natural api to perform sentiment analysis on news obtained from Twitt
 - Upload news content from Twitter to Google Cloud.
 - Use client.analyze_sentiment to analyze the sentiment of the news file.
 - Classified according to the content of the news.
-- Analyze the entity sentiment of the news.
+- Analyze the entity sentiment of the news.   
+## Testing 
+<img src="https://github.com/lqi25/mini-project1/blob/lqi/img/img1.jpg"/>
