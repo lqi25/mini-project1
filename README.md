@@ -17,3 +17,6 @@ The minimum viable product of our project is to get the latest news from Twitter
 
 ### User Interface Design
 We use twitter api to gain the news from twitter news account,for example,the BBC News account.Then, we use google natural language api to analyze the sentiment score of each and overall news, and get people's attitude towards them.
+
+# Architecture
+<img src="https://github.com/lqi25/mini-project1/blob/lqi/img/img2.jpg"/> 
