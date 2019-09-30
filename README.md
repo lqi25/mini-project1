@@ -20,3 +20,6 @@ We use twitter api to gain the news from twitter news account,for example,the BB
 
 # Architecture
 <img src="https://github.com/lqi25/mini-project1/blob/master/Screen%20Shot%202019-09-29%20at%208.51.02%20PM.png"/> 
+
+# Testing
+<img src="https://github.com/lqi25/mini-project1/blob/Xiaoyu_An/Screen%20Shot%202019-09-29%20at%209.06.11%20PM.png"/> 
