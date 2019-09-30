@@ -16,6 +16,6 @@ Here is the result of analyzing the input news using google natural language api
 <img src="https://github.com/lqi25/mini-project1/blob/lqi/img/img2.jpg"/>   
 ## Lessons learned
 I like the process of learning new things. Following the tutorial on google natural language api, I successfully analyzed the sentiment score of twitter news and people's attitude towards news, which made me very excited.   
-I think I should look at the tutorial better and try to implement more features in my project.
+I think I should look at the tutorial better and try to implement more features in my project.   
 When setting the environment variable, I set the environment variable in the google shell cloud, which is actually not working, so I have been unable to successfully call google natural language api. When configuring the environment of the project, I should study the tutorial and ask for help from others when there is a problem, so that I can configure the environment as soon as possible.Therefore I can learn and design the next step.
 
