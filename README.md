@@ -12,4 +12,8 @@ Twitter has a variety of news accounts, such as People's Daily, China, BBC News 
 - I,a news editor,need to know whether people's attitudes towards a news item are positive or negative.
 - I,a news editor,need to know people's overall attitude towards all the news obtained from twitter.   
 
-The minimum viable product of our project is to get the latest news from Twitter and analyze whether people’s attitudes toward these news are positive or negative.We use twitter api to gain the news from twitter news account,for example,the BBC News account.Then, we use google natural language api to analyze the sentiment score of each and overall news, and get people's attitude towards them.
+### MVP
+The minimum viable product of our project is to get the latest news from Twitter and analyze whether people’s attitudes toward these news are positive or negative.
+
+### User Interface Design
+We use twitter api to gain the news from twitter news account,for example,the BBC News account.Then, we use google natural language api to analyze the sentiment score of each and overall news, and get people's attitude towards them.
