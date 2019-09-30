@@ -24,6 +24,6 @@ We use twitter api to gain the news from twitter news account,for example,the BB
 # Installation Instructions
 1. Install Python 3.6+, corresponding pip
 2. Clone this repository using:
-   '''
+   ```
    git clone https://github.com/lqi25/mini-project1/blob/master/README.md
-   '''
+   ```
