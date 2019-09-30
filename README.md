@@ -12,9 +12,9 @@ Use twitter api to use the Search API to find historical Tweets,and get only the
 - Storing those 100 tweets in a txt file.   
 ### Testing 
 Here is the result of performing the process that writing tweets to json file, get latest 20 user who mentioned BBC. And after input a keyword "Trump", save 100 tweets (BBC + Trump) to a txt file.
-<img src="https://github.com/lqi25/mini-project1/blob/lqi/img/img1.jpg"/>   
+<img src="https://github.com/lqi25/mini-project1/blob/Xiaoyu_An/Screen%20Shot%202019-09-29%20at%209.06.11%20PM.png"/>   
 Here is the txt file
-<img src="https://github.com/lqi25/mini-project1/blob/lqi/img/img1.jpg"/>  
+<img src="https://github.com/lqi25/mini-project1/blob/Xiaoyu_An/Screen%20Shot%202019-09-29%20at%209.04.24%20PM.png"/>  
 
 
 ## Google API
@@ -29,7 +29,7 @@ Here is the txt file
 
 ### Testing
 Here is the sample output of sentiment anlaysis (keyword: 'Happy')
-<img src="https://github.com/lqi25/mini-project1/blob/lqi/img/img1.jpg"/>  
+<img src="https://github.com/lqi25/mini-project1/blob/Xiaoyu_An/Screen%20Shot%202019-09-29%20at%209.09.15%20PM.png"/>  
 
 
 
