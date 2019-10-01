@@ -28,24 +28,40 @@ We use twitter api to gain the news from twitter news account,for example,the BB
    git clone https://github.com/lqi25/mini-project1/blob/master/README.md
    ```
    or download a zip file of the repository by clicking the download zip button at top right.
-   img
+<img src="https://github.com/lqi25/mini-project1/blob/master/githubclone.png"/> 
+
+
+
 3. Navigate to the project folder by running "
       ```
       cd WorkingTitle
       ```
       Then paste the key.json file that containing api keys in this folder and also paste the twitter api keys in the combine.py file at the appropiate places. Also need to install all the package that required.
-      img
+ <img src="https://github.com/lqi25/mini-project1/blob/master/twitterkey.png"/> 
+ 
+ 
+ 
 4. In the terminal,type 
       ```
       python combine.py
       ```
-      The script will get the latest 20 users. Then users need to input a keyword that they interested in. Then will generate a text files called TweetOutput.txt, which containing 100 tweets that include BBC news and the keyword.
-      img
+      The script will get the latest 20 users. Then users need to input a keyword that they interested in. 
+      
+      <img src="https://github.com/lqi25/mini-project1/blob/master/twitterouput.png"/> 
+      
+      Then will generate a text files called TweetOutput.txt, which containing 100 tweets that include BBC news and the keyword.
+      
+      
+       <img src="https://github.com/lqi25/mini-project1/blob/master/txt.png"/> 
+     
+     
 5. Next type 
       ```
       python googleAPI.py
       ```
       The script will generate the sentiment scores for the tweets in the text file TweetOutput.txt. This part contain a overall attitude and the precentage of positive & negative attitude.
+      
+       <img src="https://github.com/lqi25/mini-project1/blob/master/googleoutput.png"/> 
           
 
 
