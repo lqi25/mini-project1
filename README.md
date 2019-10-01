@@ -50,8 +50,6 @@ We use twitter api to gain the news from twitter news account,for example,the BB
       <img src="https://github.com/lqi25/mini-project1/blob/master/twitterouput.png"/> 
       
       Then will generate a text files called TweetOutput.txt, which containing 100 tweets that include BBC news and the keyword.
-      
-      
        <img src="https://github.com/lqi25/mini-project1/blob/master/txt.png"/> 
      
      
@@ -61,7 +59,7 @@ We use twitter api to gain the news from twitter news account,for example,the BB
       ```
       The script will generate the sentiment scores for the tweets in the text file TweetOutput.txt. This part contain a overall attitude and the precentage of positive & negative attitude.
       
-       <img src="https://github.com/lqi25/mini-project1/blob/master/googleoutput.png"/> 
+ <img src="https://github.com/lqi25/mini-project1/blob/master/googleoutput.png"/> 
           
 
 
