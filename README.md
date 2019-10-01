@@ -37,7 +37,7 @@ We use twitter api to gain the news from twitter news account,for example,the BB
       cd WorkingTitle
       ```
       Then paste the key.json file that containing api keys in this folder and also paste the twitter api keys in the combine.py file at the appropiate places. Also need to install all the package that required.
- <img src="https://github.com/lqi25/mini-project1/blob/master/twitterkey.png"/> 
+ <img src="https://github.com/lqi25/mini-project1/blob/master/twitterkey1.png"/> 
  
  
  
