@@ -77,5 +77,10 @@ We use twitter api to gain the news from twitter news account,for example,the BB
 - For the google part, the guidances and documents is more, and easy to follow. I would like to continue learning more about NLP. 
 - In this project I used PYCHARM and it sometimes got stuck. Next time I may use a better compiler. And also allocated more time to realize some other goals, e.g. develop a user interface and build a database integration to store historical data. This is my first time to do API programming. Next time I will aviod coding directly without learn more about API and relative knowledge. 
 
+### Luxuan Qi's part
+- I like the process of learning new things. Following the tutorial on google natural language api, I successfully analyzed the sentiment score of twitter news and people's attitude towards news, which made me very excited.   
+- I think I should look at the tutorial better and try to implement more features in my project.   
+- When setting the environment variable, I set the environment variable in the google shell cloud, which is actually not working, so I have been unable to successfully call google natural language api. When configuring the environment of the project, I should study the tutorial and ask for help from others when there is a problem, so that I can configure the environment as soon as possible.Therefore I can learn and design the next step.
+
 
 
