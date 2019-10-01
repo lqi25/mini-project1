@@ -24,10 +24,11 @@ The minimum viable product of our project is to get the latest news from Twitter
 ### User Interface Design
 We use twitter api to gain the news from twitter news account,for example,the BBC News account.Then, we use google natural language api to analyze the sentiment score of each and overall news, and get people's attitude towards them.
 
-# Architecture
+## Architecture
 <img src="https://github.com/lqi25/mini-project1/blob/master/img/Screen%20Shot%202019-09-29%20at%208.51.02%20PM.png"/> 
 
-# Installation Instructions
+## Design Progress
+### Xiaoyu's part
 1. Install Python 3.6+, corresponding pip
 2. Clone this repository using:
    ```
@@ -67,7 +68,22 @@ We use twitter api to gain the news from twitter news account,for example,the BB
       The script will generate the sentiment scores for the tweets in the text file TweetOutput.txt. This part contain a overall attitude and the precentage of positive & negative attitude.
       
  <img src="https://github.com/lqi25/mini-project1/blob/master/img/googleoutput.png"/> 
-          
+ 
+### Luxuan Qi's part
+- Use google natural api to perform sentiment analysis on news obtained from Twitter, knowing the sentiment score of the news and whether people's attitude towards it is positive or negative. In addition, the input news can be classified and entity sentiment analysis.   
+1.How it works
+- Greate a project in GCP Console and enable the google natural language api.
+- Create a service account and download the file of key.
+- Set the GOOGLE_APPLICATION_CREDENTIALS in cmd using service account key.
+- Upload news content from Twitter to Google Cloud.
+- Use client.analyze_sentiment to analyze the sentiment of the news file.
+- Classified according to the content of the news.
+- Analyze the entity sentiment of the news.   
+2.Testing
+Here is the result of performing sentiment analysis on the twitter news file located in google cloud.We can see the sentiment score of each news and people's attitude towards it is positive, negative or neutral.
+<img src="https://github.com/lqi25/mini-project1/blob/lqi/img/img1.jpg"/>   
+Here is the result of analyzing the input news using google natural language api.We can see the category of the news, its sentiment score,people's attitude towards it and entity sentiment analysis.   
+<img src="https://github.com/lqi25/mini-project1/blob/lqi/img/img2.jpg"/>            
 ## Personal learning
 
 ### Xiaoyu's part
