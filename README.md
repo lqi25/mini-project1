@@ -69,7 +69,7 @@ We use twitter api to gain the news from twitter news account,for example,the BB
           
 ## Personal learning
 
--Xiaoyu's part
+### Xiaoyu's part
 
 - Building software is not easy. I always run into errors. Usually write code only require a few minutes but debug need a few hours :) so consistance is really necessary. 
 - For the twitter part, there are many libraries which Twitter provided that support the standard Twitter API. I prefer TwitterSearch for its multifunction and convenience. But my filtering process of twitter messages is too simple. There is an large amount of spam and useless data, so having a more in depth filtering process would be better. 
