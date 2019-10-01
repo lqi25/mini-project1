@@ -56,7 +56,8 @@ We use twitter api to gain the news from twitter news account,for example,the BB
       <img src="https://github.com/lqi25/mini-project1/blob/master/twitterouput.png"/> 
       
       Then will generate a text files called TweetOutput.txt, which containing 100 tweets that include BBC news and the keyword.
-       <img src="https://github.com/lqi25/mini-project1/blob/master/txt.png"/> 
+      
+     <img src="https://github.com/lqi25/mini-project1/blob/master/txt.png"/> 
      
      
 5. Next type 
