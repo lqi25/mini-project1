@@ -34,7 +34,7 @@ We use twitter api to gain the news from twitter news account,for example,the BB
    git clone https://github.com/lqi25/mini-project1/blob/master/README.md
    ```
    or download a zip file of the repository by clicking the download zip button at top right.
-<img src="https://github.com/lqi25/mini-project1/blob/master/githubclone.png"/> 
+<img src="https://github.com/lqi25/mini-project1/blob/master/img/githubclone.png"/> 
 
 
 
@@ -43,7 +43,7 @@ We use twitter api to gain the news from twitter news account,for example,the BB
       cd WorkingTitle
       ```
       Then paste the key.json file that containing api keys in this folder and also paste the twitter api keys in the combine.py file at the appropiate places. Also need to install all the package that required.
- <img src="https://github.com/lqi25/mini-project1/blob/master/twitterkey1.png"/> 
+ <img src="https://github.com/lqi25/mini-project1/blob/master/img/twitterkey1.png"/> 
  
  
  
@@ -53,11 +53,11 @@ We use twitter api to gain the news from twitter news account,for example,the BB
       ```
       The script will get the latest 20 users. Then users need to input a keyword that they interested in. 
       
-      <img src="https://github.com/lqi25/mini-project1/blob/master/twitterouput.png"/> 
+      <img src="https://github.com/lqi25/mini-project1/blob/master/img/twitterouput.png"/> 
       
       Then will generate a text files called TweetOutput.txt, which containing 100 tweets that include BBC news and the keyword.
       
-     <img src="https://github.com/lqi25/mini-project1/blob/master/txt.png"/> 
+     <img src="https://github.com/lqi25/mini-project1/blob/master/img/txt.png"/> 
      
      
 5. Next type 
@@ -66,7 +66,7 @@ We use twitter api to gain the news from twitter news account,for example,the BB
       ```
       The script will generate the sentiment scores for the tweets in the text file TweetOutput.txt. This part contain a overall attitude and the precentage of positive & negative attitude.
       
- <img src="https://github.com/lqi25/mini-project1/blob/master/googleoutput.png"/> 
+ <img src="https://github.com/lqi25/mini-project1/blob/master/img/googleoutput.png"/> 
           
 ## Personal learning
 
