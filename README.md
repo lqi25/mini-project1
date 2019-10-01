@@ -61,7 +61,7 @@ We use twitter api to gain the news from twitter news account,for example,the BB
       
  <img src="https://github.com/lqi25/mini-project1/blob/master/googleoutput.png"/> 
           
-
+6.
 
 
 
